@@ -381,6 +381,16 @@
             "related": ".xml"
           }
         }
+      },
+      "DesignPatterns/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DesignPatterns.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatterns.dll": {}
+        }
       }
     }
   },
@@ -975,10 +985,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DesignPatterns/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatterns/DesignPatterns.csproj",
+      "msbuildProject": "../DesignPatterns/DesignPatterns.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "DesignPatterns >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
@@ -1020,7 +1036,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\anes.abdelrahman\\OneDrive - accesspay53\\Documents\\Coding-Github\\SOLID_And_DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {
+              "projectPath": "C:\\Users\\anes.abdelrahman\\OneDrive - accesspay53\\Documents\\Coding-Github\\SOLID_And_DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

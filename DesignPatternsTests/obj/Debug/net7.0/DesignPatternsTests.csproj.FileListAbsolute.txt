@@ -97,3 +97,6 @@ C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_A
 C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatternsTests\obj\Debug\net7.0\DesignPatternsTests.pdb
 C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatternsTests\obj\Debug\net7.0\DesignPatternsTests.genruntimeconfig.cache
 C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatternsTests\obj\Debug\net7.0\ref\DesignPatternsTests.dll
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatternsTests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatternsTests\bin\Debug\net7.0\DesignPatterns.dll
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatternsTests\bin\Debug\net7.0\DesignPatterns.pdb
