@@ -1,0 +1,12 @@
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\net7.0\DesignPatterns.deps.json
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\net7.0\DesignPatterns.dll
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\net7.0\DesignPatterns.pdb
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.dll
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\net7.0\refint\DesignPatterns.dll
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.pdb
+C:\Users\anes.abdelrahman\OneDrive - accesspay53\Documents\Coding-Github\SOLID_And_DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ref\DesignPatterns.dll
