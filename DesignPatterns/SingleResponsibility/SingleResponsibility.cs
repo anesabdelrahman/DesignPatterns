@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns
+﻿namespace DesignPatterns.SingleResponsibility
 {
     public class SingleResponsibility
     {
@@ -34,13 +34,12 @@
         }
     }
 
-    public class JournalRepository {
+    public class JournalRepository
+    {
         public static void PersistJournal(Journal journal, string fileName, bool overwrite = false)
         {
             if (overwrite || !File.Exists(fileName))
-            {
                 File.WriteAllText(fileName, journal.ToString());
-            }
         }
     }
 }
